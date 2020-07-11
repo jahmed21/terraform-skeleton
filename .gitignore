@@ -1,0 +1,3 @@
+.terraform/
+.plans/*.txt
+.env
